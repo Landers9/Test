@@ -1,0 +1,7 @@
+boulette ;
+ognon 4 2021-11-01
+tranche_fromage 10 2021-11-10
+pain_burger 10 2021-11-20
+steak_hache 9 2021-12-01
+ognon 5 2021-12-25
+;
